@@ -1,5 +1,5 @@
 console.log('Coladera de Eratostenes v1.0')
-const n = 100
+const n = 1000
 const elementos = Array(n)
 const limite = Math.sqrt(n)
 let elementoActual;

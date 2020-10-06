@@ -19,5 +19,8 @@ for(let i = 2; i< limite; i++){
     }
   }
 }
+for(let i = 0; i < elementos.length; i++){
+  if(elementos[i]) console.log(elementos[i])
+}
 console.log('Los que tienen numero son primos')
 console.log(elementos)
